@@ -1,5 +1,7 @@
 # 3️⃣ Escrevendo as Classes de um Jogo
 
+## - Desafio 2 proposto pelo Tech Lead Felipe Aguiar da ([DIO](https://web.dio.me/))
+
 **O Que Deve Ser Utilizado**
 - Variáveis
 - Operadores
